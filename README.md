@@ -1,1 +1,1 @@
-# satria
+# https://afdhan.github.io/sce/
